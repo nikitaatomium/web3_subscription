@@ -1,5 +1,5 @@
 import styles from '../styles/Home.module.css';
-import Formjs from './Formjs';
+import Formjs from '../components/Formjs';
 
 export default function Home() {
   return (
