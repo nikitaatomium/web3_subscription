@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import styles from '../styles/Home.module.css';
+import styles from '../styles/globals.css';
 import { Box, Button, ButtonGroup, Flex, Label, Text, TextField, Checkbox, Module, Heading } from 'gestalt';
 import 'gestalt/dist/gestalt.css';
 import Nft from './Nft';
