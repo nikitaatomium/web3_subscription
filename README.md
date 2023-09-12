@@ -1,2 +1,2 @@
 # web3_subscription
-Subscription form for receiving digital music collectibles on Solana blockchain
+Example of usage of @solana/wallet-adapter and interaction with Solana blockchain.
